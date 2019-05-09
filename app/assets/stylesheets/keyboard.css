@@ -51,3 +51,17 @@ html {
 .key-wide {
 	flex: 2 0 auto;
 }
+.label_key {
+	font-family: sans-serif;
+	background-color: white;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	margin: 5px;
+	border-radius: 5px;
+	white-space: nowrap;
+	flex: 1;
+	height: auto;
+}
