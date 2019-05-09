@@ -65,3 +65,17 @@ html {
 	flex: 1;
 	height: auto;
 }
+
+#WriteRow {
+	font-family: sans-serif;
+	background-color: black;
+	color: #00F900;
+	display: flex;
+	align-items: center;
+	padding: 10px;
+	margin: 5px;
+	border-radius: 5px;
+	white-space: nowrap;
+	flex: 1;
+	height: auto;
+}
